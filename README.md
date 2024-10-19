@@ -3,7 +3,7 @@
 <br></br>
 <img align="right" alt="logo" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
-- 🏫 I am an computer science graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
+- 🏫 I am a computer science graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
 
 - 🌱 I’m currently learning **Nuxtjs**
 
