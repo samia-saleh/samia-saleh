@@ -5,7 +5,7 @@
 
 - 🏫 I am a computer science graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
 
-- 🌱 I’m currently learning **Nuxtjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 I’m looking to collaborate on **Open Source Projects**
 
