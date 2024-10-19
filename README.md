@@ -3,13 +3,13 @@
 <br></br>
 <img align="right" alt="logo" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
-- 🏫 I am an information technology graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
+- 🏫 I am an computer science graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
 
 - 🌱 I’m currently learning **Nuxtjs**
 
 - 👨‍💻 I’m looking to collaborate on **Open Source Projects**
 
-- 🤔 I’m currently open for a new job opportunity, this is [My Resume]()
+- 🤔 I’m currently open for a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1fSPyZA5mwjCvbKqoVjqAI3XH1RviDqJl/view?usp=drive_link)
 
 - 📫 How to reach me **salehsamia869@gmail.com**
 
