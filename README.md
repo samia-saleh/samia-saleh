@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m looking to collaborate on **Open Source Projects**
 
-- 🤔 I’m currently open for a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1fSPyZA5mwjCvbKqoVjqAI3XH1RviDqJl/view?usp=drive_link)
+- 🤔 I’m currently open for a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1Boo2v8a1-paOnlxdqKAuCX01iN32Sn9k/view?usp=drivesdk)
 
 - 📫 How to reach me **salehsamia869@gmail.com**
 
